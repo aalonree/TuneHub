@@ -1,0 +1,143 @@
+Playlist: mood #1
+{"danceability": 0.7178, "energy": 0.5977, "loudness": -7.1991, "acousticness": 0.193, "instrumentalness": 0.0054, "liveness": 0.1981, "valence": 0.4128, "tempo": 123.4271}
+Jimmy Cooks (feat. 21 Savage) - Drake
+Kill Bill - SZA
+I Like You (A Happier Song) (with Doja Cat) - Post Malone
+family ties (with Kendrick Lamar) - Baby Keem
+Creepin' (with The Weeknd & 21 Savage) - Metro Boomin
+Pure Cocaine - Lil Baby
+Black Beatles - Rae Sremmurd
+Rich Flex - Drake
+Suge - DaBaby
+Blind - SZA
+The Color Violet - Tory Lanez
+Ric Flair Drip (with Metro Boomin) - Offset
+Chicago Freestyle (feat. Giveon) - Drake
+JOC IN '06 - DaBaby
+Low - SZA
+Pink Dolphin Sunset (feat. Tee) - Tory Lanez
+Thousand Miles - The Kid LAROI
+Glock In My Lap - 21 Savage
+Jumbotron Shit Poppin - Drake
+All The Stars (with SZA) - Kendrick Lamar
+SOS - SZA
+Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage] - Metro Boomin
+No Time Wasted (feat. Future) - Polo G
+I Can't Go Back To The Way It Was (Intro) - The Kid LAROI
+Circo Loco - Drake
+Rich Nigga Shit (feat. Young Thug) - 21 Savage
+Nobody Gets Me - SZA
+I Can't Save You (Interlude) [with Future & feat. Don Toliver] - Metro Boomin
+Headlines - Drake
+Runnin - 21 Savage
+Shirt - SZA
+16 - Baby Keem
+Circles - Post Malone
+‘87 Stingray - Tory Lanez
+Knife Talk (with 21 Savage ft. Project Pat) - Drake
+Snooze - SZA
+No Heart - 21 Savage
+Retro [ROUGH] - Childish Gambino
+Lady Of Namek - Tory Lanez
+Kevin’s Heart - J. Cole
+Tally (with Denzel Curry) - midwxst
+Number One Candidate - AntsLive
+Through The Wire - Kanye West
+Donald Trump - Mac Miller
+First Class - Jack Harlow
+MIDDLE CHILD - J. Cole
+Otherside of America - Meek Mill
+Deep End Freestyle - Sleepy Hallow
+Fair Trade (with Travis Scott) - Drake
+Nice For What - Drake
+No Role Modelz - J. Cole
+HUMBLE. - Kendrick Lamar
+Die Hard - Kendrick Lamar
+m y . l i f e (with 21 Savage & Morray) - J. Cole
+See You Again (feat. Kali Uchis) - Tyler, The Creator
+NEW MAGIC WAND - Tyler, The Creator
+EARFQUAKE - Tyler, The Creator
+Dua Lipa - Jack Harlow
+Laugh Now Cry Later (feat. Lil Durk) - Drake
+Tyler Herro - Jack Harlow
+DNA. - Kendrick Lamar
+God's Plan - Drake
+N95 - Kendrick Lamar
+Money Trees - Kendrick Lamar
+YOSEMITE - Travis Scott
+LOVE. FEAT. ZACARI. - Kendrick Lamar
+Apparently - J. Cole
+Can't Get Enough - J. Cole
+Feel No Ways - Drake
+Pussy & Millions (feat. Travis Scott) - Drake
+LOYALTY. FEAT. RIHANNA. - Kendrick Lamar
+Hello - J. Cole
+Weekend (feat. Miguel) - Mac Miller
+goosebumps - Travis Scott
+SICKO MODE - Travis Scott
+Open Arms (feat. Travis Scott) - SZA
+Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track - Jack Harlow
+Sticky - Drake
+ball w/o you - 21 Savage
+On BS - Drake
+Major Distribution - Drake
+Lose Yourself - Eminem
+Overdue (with Travis Scott) - Metro Boomin
+Nights - Frank Ocean
+Pursuit Of Happiness (Nightmare) - Kid Cudi
+Praise The Lord (Da Shine) (feat. Skepta) - A$AP Rocky
+Father Stretch My Hands Pt. 1 - Kanye West
+Chill Bill (feat. J. Davi$ & Spooks) - Rob $tone
+Father Time (feat. Sampha) - Kendrick Lamar
+Playlist: mac miller
+{"danceability": 0.6399, "energy": 0.5976, "loudness": -7.3482, "acousticness": 0.3872, "instrumentalness": 0.0162, "liveness": 0.2271, "valence": 0.448, "tempo": 113.3114}
+The Spins - Mac Miller
+Love Lost - Mac Miller
+Small Worlds - Mac Miller
+Weekend (feat. Miguel) - Mac Miller
+Congratulations (feat. Bilal) - Mac Miller
+Blue World - Mac Miller
+Self Care - Mac Miller
+Nikes On My Feet - Mac Miller
+My Favorite Part - Mac Miller
+Good News - Mac Miller
+Come Back to Earth - Mac Miller
+Kool Aid & Frozen Pizza - Mac Miller
+Dang! (feat. Anderson .Paak) - Mac Miller
+Circles - Mac Miller
+What's the Use? - Mac Miller
+Donald Trump - Mac Miller
+Objects in the Mirror - Mac Miller
+Woods - Mac Miller
+Ladders - Mac Miller
+Knock Knock - Mac Miller
+Missed Calls - Mac Miller
+Surf - Mac Miller
+Hurt Feelings - Mac Miller
+Time - Free Nationals
+Diablo - Mac Miller
+Hand Me Downs - Mac Miller
+Thoughts from a Balcony - Mac Miller
+The Way - Ariana Grande
+ROS - Mac Miller
+Rain (feat. Vince Staples) - Mac Miller
+Programs - Mac Miller
+That's Life (feat. Mac Miller & Sia) - 88-Keys
+Ayye - Mac Miller
+The Scoop On Heaven - Mac Miller
+Right - Mac Miller
+Buttons - Mac Miller
+Coming Back (feat. Mac Miller) - Domo Genesis
+Soulmate - Mac Miller
+100 Grandkids - Mac Miller
+The Mourning After - Mac Miller
+BDE Bonus - Mac Miller
+Cinderella (feat. Ty Dolla $ign) - Mac Miller
+Yeah - bonus - Mac Miller
+The Question - Mac Miller
+Best Day Ever - Mac Miller
+People Under The Stairs - Mac Miller
+Angel Dust - Mac Miller
+Senior Skip Day - Mac Miller
+Clubhouse - Mac Miller
+Loud - Mac Miller
